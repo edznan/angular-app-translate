@@ -1,0 +1,8 @@
+{
+  "TRANSLATIONS": {
+    "title": "This is a translation using pipe",
+    "text_1": "This is a translation using directive (key as attribute).",
+    "text_2": "This is a translation using directive (key as content of element).",
+    "parameter": "This is a translation using {{type_value}}"
+    }
+}

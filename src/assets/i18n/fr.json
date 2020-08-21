@@ -1,0 +1,8 @@
+{
+  "TRANSLATIONS": {
+    "title": "Ceci est une traduction utilisant pipe",
+    "text_1": "Il s'agit d'une traduction utilisant directive (clé comme attribut).",
+    "text_2": "Il s'agit d'une traduction utilisant directive (clé comme contenu de l'élément).",
+    "parameter": "Ceci est une traduction utilisant {{type_value}}"
+    }
+}

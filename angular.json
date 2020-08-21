@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-app-translate"
+    }
+  },
+  "defaultProject": "angular-app-translate",
+  "cli": {
+    "analytics": false
+  }
 }
