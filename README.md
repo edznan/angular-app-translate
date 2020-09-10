@@ -1,3 +1,5 @@
+Angular application that showcases basic usage of ngx/translate. In order to run this project you first have to install angular and ngx/translate.  
+
 # AngularAppTranslate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
